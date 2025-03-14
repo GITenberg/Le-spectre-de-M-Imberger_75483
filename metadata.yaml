@@ -1,0 +1,42 @@
+_repo: Le-spectre-de-M-Imberger_75483
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Boutet, Frédéric
+    alias: Boutet, Frederic
+    birthdate: 1874
+    deathdate: 1941
+    gutenberg_agent_id: '56811'
+    url: http://www.gutenberg.org/2009/agents/56811
+    wikipedia: https://fr.wikipedia.org/wiki/Fr%C3%A9d%C3%A9ric_Boutet
+description: ''
+gutenberg_issued: '2025-02-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75483'
+  lccn: '22019751'
+language: fr
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=njp.32101072914037
+pgterms:marc905: 20230604065116boutet
+pgterms:marc906: '1922'
+pgterms:marc907: FR
+production_note: Laurent Vogel, Pierre Lacaze and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This book was produced from images made available
+  by the HathiTrust Digital Library.)
+publication_note: '  $aParis :$bFlammarion, $c1922.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, French'
+- !lcsh 'French fiction -- 20th century'
+- !lcc 'PQ'
+- GITenberg
+tableOfContents: Le Spectre de M. Imberger -- Le Jardin du Pirate -- Un Chantage --
+  Mémoire -- Une Réputation -- Une Enquête -- L'Amateur -- La Tache -- Scandale mondain
+  -- L'Apparition -- La Devineresse -- Hypnotisme -- Monsieur Arthur -- Hippolyte
+  -- L'Équilibre -- Complicité -- Le Marché -- Berthe -- Le Simulateur -- Le Passager
+  -- Les plumes du paon -- L'Héritage -- Un bon conseil -- Au Bord -- Madame Paul
+  -- Un Voleur -- La Niveleuse.
+title: Le spectre de M. Imberger
+url: http://www.gutenberg.org/ebooks/75483
